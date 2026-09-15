@@ -36,3 +36,7 @@ A sleek, responsive landing interaction built with vanilla web technologies and 
 | **Icons** | Remix Icon CDN | Menu hamburger (`ri-menu-3-line`) and close toggle glyphs[cite: 2] |
 
 ---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
